@@ -1,4 +1,4 @@
-Website-1: PICKAPUPPY
+Website 1: PICKAPUPPY
 
 I worked on PICKAPUPPY, a pet adoption website that helps users find cats and dogs available for adoption. Users can browse pet profiles and apply for adoption by filling out a simple form, making it easy to connect animals with loving homes.
 
